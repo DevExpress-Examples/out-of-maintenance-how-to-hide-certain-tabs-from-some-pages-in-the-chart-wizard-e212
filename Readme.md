@@ -1,12 +1,7 @@
-<!-- default file list -->
-*Files to look at*:
-
-* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
-<!-- default file list end -->
 # How to hide certain tabs from some pages in the Chart Wizard
 
 
-<p>The following example demonstrates how to hide certain property tabs on a Chart Wizard's page at runtime. This technique is useful to prevent the end-users from modifying particular chart settings.</p>
+<p><b>This example is obsolete. Starting with version 15.1, we introduced a new Chart Designer. Please refer to <a href="https://docs.devexpress.com/WindowsForms/114070/Controls-and-Libraries/Chart-Control/Design-Time-Features/Chart-Designer">Chart Designer</a> to learn more.</b></p> 
 
 <br/>
 
